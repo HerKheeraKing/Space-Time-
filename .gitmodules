@@ -1,0 +1,3 @@
+[submodule "6DOF code/StewartPlatform/6-DOF"]
+	path = 6DOF code/StewartPlatform/6-DOF
+	url = https://github.com/HerKheeraKing/6-DOF.git
