@@ -37,6 +37,14 @@ Players must press the Windows key to exit.
 
 
 
+> #### 📥 Download the Game
+<p align="left">
+  <a href="https://github.com/HerKheeraKing/Space-Time-/releases/latest">
+    <img src="AI Images/Download icon.png" width="25" alt="Download Game"/>
+  </a>
+</p>
+
+
 <br><br><br>
 # Check Out My 6-DOF Motion Simulator - Click Image To Access Repo 
 
